@@ -1,3 +1,4 @@
+[![Scorecards supply-chain security](https://github.com/bancolombia/mq-golang-jms20/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/mq-golang-jms20/actions/workflows/scorecards-analysis.yml)
 # JMS 2.0 style interface for IBM MQ applications in Golang
 
 This repository provides a developer-friendly [JMS 2.0](https://javaee.github.io/jms-spec/pages/JMS20FinalRelease) style programming interface to enable Golang applications to send and receive messages through IBM MQ.
